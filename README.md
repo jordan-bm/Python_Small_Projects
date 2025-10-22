@@ -10,6 +10,7 @@ Each project is listed below and can be run independently:
 - `word_mode_finder.py` (Subfolder `word_mode_finder_v1`) — Determines the statistical mode of values in a dataset — Includes .txt test files within the subfolder for program testing. When prompted by the program to enter a filename, enter input(1-4).txt
 - `binarySearch.py` — Searches for an element in a sorted list using binary search recursion
 - `coinToss.py` — Simulates repeated coin tosses and tracks probability
+- `DFS_BFS_ASTAR.py` — Implements and compares three graph search algorithms — Depth-First Search (DFS), Breadth-First Search (BFS), and A* — on a Romania map problem. Demonstrates algorithmic pathfinding and use of heuristics with real map data structures
 - `factorial.py` — Calculates factorials using both loops and recursion
 - `fibonacci.py` — Generates Fibonacci numbers using recursion
 - `indexANDvalue.py` — Demonstrates indexing and value retrieval in lists
